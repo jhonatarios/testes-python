@@ -1,2 +1,2 @@
-# testes-python
-Irei colocar todos meus códigos de teste básicos feitos em Python.
+# Sobre
+Irei colocar todos meus códigos de teste básicos feitos em Python, serao projetos pequenos e basicos, para desenvolvimentos mais arrojados irei criar um diretorio a parte para cada um, sigo postando tambem a evolucao do meu curso de Python em um diretorio separado para ele tambem, o conteudo desse diretorio é mais relacionado a pesquisas que fiz de como realizar algumas coisas, algumas ideias rapidas e a solucao para chegar até ela.
